@@ -11,6 +11,12 @@ A aplicação permite:
 - visualizar temperatura, umidade, sensação térmica, precipitação, vento e descrição do clima;
 - executar em um ambiente local com Vite + TypeScript.
 
+## Demo
+
+Confira a versão online em:
+
+https://ryansdeve.github.io/clima-project/
+
 ## Tecnologias
 
 - TypeScript
