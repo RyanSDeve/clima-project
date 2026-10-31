@@ -22,7 +22,7 @@ A aplicação permite:
 
 Antes de rodar o projeto, certifique-se de ter instalado:
 
-- Node.js 18+ 
+- Node.js 18+
 - npm
 
 ## Instalação
